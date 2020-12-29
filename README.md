@@ -3,7 +3,7 @@ This repository contains the code we wrote during the Data4Good Challenge 2020, 
 
 ## About the Data 4 Good Challenge
 The event gathers 150 students, together with experts in data science, machine learning and business strategy around the common goal of solving a complex social problem. Teams work together to get insights from a number of datasets and use it to formulate a strategy for this social issue. Pitches are evaluated by corporate jury members. <br />
-from: https://www.dataforgood.be/
+You can find out more [here](https://www.dataforgood.be/).
 
 ## Subject of the challenge
 We were challenged to come up with a solution to eliminate racial bias in a recidivism algorithm used by the US Justice System: <br />
