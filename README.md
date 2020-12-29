@@ -13,7 +13,6 @@ crimes. These scores are then used by judges to determine the type and length of
 such algorithm used by the states of New York, Wisconsin, California, Florida’s Broward County,
 and other jurisdictions is the Compas algorithm developed by Equivant (formerly known as
 NorthPointe Inc.). <br />
-<br />
 In recent years, more and more data about these algorithms became publicly available and now it is
 the perfect time to properly study these algorithms. Your team’s job is to study whether or not
 these algorithms cause bias in the US Justice System and how this affects various
